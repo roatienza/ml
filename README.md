@@ -1,6 +1,6 @@
-# Foundations of Machine Learning course materials.
+# Foundations of Machine Learning Course Materials.
 
-This is the repository of my course **Foundations of Machine Learning** (EE 298M/CoE 197M). Similar to my previous course in [Deep Learning](https://github.com/roatienza/Deep-Learning-Experiments), I would like to strike a balance between theory and practical implementation of concepts. This course is still under development. Please expect occassional errors, missing parts, bugs, etc.
+This is the repository of my course **Foundations of Machine Learning** (EE 298M/CoE 197M). Similar to my previous course in [Deep Learning](https://github.com/roatienza/Deep-Learning-Experiments), I would like to strike a balance between theory and practical implementation of concepts. This course is still under development. Please expect occasional errors, missing parts, bugs, etc.
 
 With some modifications, the theory part is based on Mathematics for Machine Learning book. It is freely available at this [link](https://mml-book.github.io/). 
 
