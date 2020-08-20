@@ -10,7 +10,7 @@ As much as possible, code examples are written to better understand key concepts
 
 ## Roadmap
 1. **Linear Algebra** - Tensors, Operations, Basis, Rank, Spaces/Subspaces, Groups, Linear Mappings
-   - [Lecture Notes]()
+   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_algebra/Linear_Algebra.pdf)
    - [Code](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/numpy_intro.ipynb)
 2. **Analytic Geometry** 
 3. **Matrix Decomposition**
