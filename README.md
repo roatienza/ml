@@ -22,3 +22,19 @@ As much as possible, code examples are written to better understand key concepts
 9. **Gaussian Mixture Models**
 10. **Support Vector Machines**
    
+## Appreciation
+If you find the materials in this repo useful, please give it a star or fork it. 
+
+## Citation
+If you find this work useful, please cite:
+
+```
+@misc{atienza2020ml,
+  title={Foundations of Machine Learning},
+  author={Atienza, Rowel},
+  year={2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/roatienza/ml}},
+}
+```
