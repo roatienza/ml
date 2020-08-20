@@ -1,2 +1,15 @@
-# ml
-Foundations of Machine Learning course materials.
+# Foundations of Machine Learning course materials.
+
+This is the repository of my course **Foundations of Machine Learning** (EE 298M/CoE 197M). Similar to my previous course in [Deep Learning](https://github.com/roatienza/Deep-Learning-Experiments), I would like to strike a balance between theory and practical implementation of concepts. This course is still under development. Please expect occassional errors, missing parts, bugs, etc.
+
+With some modifications, the theory part is based on Mathematics for Machine Learning book. It is freely available at this [link](https://mml-book.github.io/). 
+
+**Thank you!** I greatly appreciate the authors for having the book available online. This is helpful for students who have limited resources. 
+
+As much as possible, code examples are written to better understand key concepts. The code examples in this course are in [Jupyter Notebook](https://jupyter.org/). I tried using [Google Colab](https://colab.research.google.com/) but encountered errors in saving my notebook. So, I switch to Jupyter Notebook. In theory, you can upload the notebooks here to Google Colab. 
+
+## Table of Contents
+1. **Linear Algebra** - Tensors, Operations, Basis, Rank, Spaces/Subspaces, Groups, Linear Mappings
+   - [Lecture Notes]()
+   - [Code](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/numpy_intro.ipynb)
+   
