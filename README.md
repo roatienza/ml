@@ -12,4 +12,13 @@ As much as possible, code examples are written to better understand key concepts
 1. **Linear Algebra** - Tensors, Operations, Basis, Rank, Spaces/Subspaces, Groups, Linear Mappings
    - [Lecture Notes]()
    - [Code](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/numpy_intro.ipynb)
+2. **Analytic Geometry** 
+3. **Matrix Decomposition**
+4. **Vector Calculus**
+5. **Probability Distributions**
+6. **Expectation Maximization (EM) and Maximum A Posteriori (MAP)**
+7. **Optimization**
+8. **Regression**
+9. **Gaussian Mixture Models**
+10. **Support Vector Machines**
    
