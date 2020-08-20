@@ -6,7 +6,7 @@ With some modifications, the theory part is based on Mathematics for Machine Lea
 
 **Thank you!** I greatly appreciate the authors for having the book available online. This is helpful for students who have limited resources. 
 
-As much as possible, code examples are written to better understand key concepts. The code examples in this course are in [Jupyter Notebook](https://jupyter.org/). I tried using [Google Colab](https://colab.research.google.com/) but encountered errors in saving my notebook. So, I switch to Jupyter Notebook. In theory, you can upload the notebooks here to Google Colab. 
+As much as possible, code examples are written to better understand key concepts. The code examples in this course are in [Jupyter Notebook](https://jupyter.org/). I tried using [Google Colab](https://colab.research.google.com/) but encountered errors in saving my notebooks. So, I switched to Jupyter Notebook. In theory, you can upload the notebooks here to Google Colab. 
 
 ## Roadmap
 1. **Linear Algebra** - Tensors, Operations, Basis, Rank, Spaces/Subspaces, Groups, Linear Mappings
