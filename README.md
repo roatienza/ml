@@ -8,7 +8,7 @@ With some modifications, the theory part is based on Mathematics for Machine Lea
 
 As much as possible, code examples are written to better understand key concepts. The code examples in this course are in [Jupyter Notebook](https://jupyter.org/). I tried using [Google Colab](https://colab.research.google.com/) but encountered errors in saving my notebook. So, I switch to Jupyter Notebook. In theory, you can upload the notebooks here to Google Colab. 
 
-## Table of Contents
+## Roadmap
 1. **Linear Algebra** - Tensors, Operations, Basis, Rank, Spaces/Subspaces, Groups, Linear Mappings
    - [Lecture Notes]()
    - [Code](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/numpy_intro.ipynb)
