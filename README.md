@@ -13,7 +13,7 @@ As much as possible, code examples are written to better understand key concepts
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_algebra/Linear_Algebra.pdf)
    - Notebooks
       - [Introduction to Numpy](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/numpy_intro.ipynb)
-      - [Linear Regression](https://github.com/roatienza/ml/blob/master/linear_algebra/notebooklinear_regression.ipynb)
+      - [Linear Regression](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/linear_regression.ipynb)
 2. **Analytic Geometry** 
 3. **Matrix Decomposition**
 4. **Vector Calculus**
