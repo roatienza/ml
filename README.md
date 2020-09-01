@@ -15,7 +15,7 @@ As much as possible, code examples are written to better understand key concepts
       - [Introduction to Numpy](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/numpy_intro.ipynb)
       - [Linear Regression](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/linear_regression.ipynb)
       - [Basis Vectors Transformation](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/transform.ipynb)
-2. **Analytic Geometry** - Inner Product, Basis, Projection, Rotation
+2. **Analytic Geometry** - Distance, Metric, Norm, Inner Product, Basis, Projection, Gram-Schmidt, Rotation
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/analytic_geometry/Analytic_Geometry.pdf)
 3. **Matrix Decomposition**
 4. **Vector Calculus**
