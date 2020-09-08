@@ -17,7 +17,8 @@ As much as possible, code examples are written to better understand key concepts
       - [Basis Vectors Transformation](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/transform.ipynb)
 2. **Analytic Geometry** - Distance, Metric, Norm, Inner Product, Basis, Projection, Gram-Schmidt, Rotation
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/analytic_geometry/Analytic_Geometry.pdf)
-3. **Matrix Decomposition**
+3. **Matrix Decomposition** - Eigenvalues, Eigenvector, Eigendecomposition, Spectral Theorem, Singular-Value Decomposition, Matrix Approximation
+   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/matrix_decompositions/Matrix_Decompositions.pdf)
 4. **Vector Calculus**
 5. **Probability Distributions**
 6. **Expectation Maximization (EM) and Maximum A Posteriori (MAP)**
