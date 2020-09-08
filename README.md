@@ -19,6 +19,8 @@ As much as possible, code examples are written to better understand key concepts
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/analytic_geometry/Analytic_Geometry.pdf)
 3. **Matrix Decomposition** - Eigenvalues, Eigenvector, Eigendecomposition, Spectral Theorem, Singular-Value Decomposition, Matrix Approximation
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/matrix_decompositions/Matrix_Decompositions.pdf)
+   - Notebook (Code Examples):
+      - [Matrix Approximation](https://github.com/roatienza/ml/blob/master/matrix_decompositions/notebook/matrix_approximation.ipynb)
 4. **Vector Calculus**
 5. **Probability Distributions**
 6. **Expectation Maximization (EM) and Maximum A Posteriori (MAP)**
