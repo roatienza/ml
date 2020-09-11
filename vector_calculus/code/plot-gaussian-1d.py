@@ -8,8 +8,16 @@ import argparse
 
 def plot_gaussian_1d(mean=0., std=1., model=False):
 
-    plt.xlabel('x')
-    plt.ylabel('Gaussian dist')
+    plt.rc('axes', labelsize=14)
+    plt.xlabel('x = Samples')
+
+    data = np.random.normal(mean, std, 10000)
+    hist, edges = np.histogram(data, 100, density=True)
+    plt.plot(edges[:-1], hist, 'o', color='b', label="Observation")
+
+    plt.legend(loc='upper left')
+    plt.ylabel('y = Frequency')
+    plt.savefig("gaussian_samples.png")
 
     if model:
         # generate data bet -4, 4 interval of 0.02
@@ -17,13 +25,13 @@ def plot_gaussian_1d(mean=0., std=1., model=False):
         y = np.exp( -(x - mean)**2 / (2 * std**2) )
         y /= (std * np.sqrt(2 * np.pi))
 
-        plt.plot(x, y, '-', label="model=N(x; mean, std^2)")
+        label = r'$Model=y=f(x)=N(x;\mu,\sigma^2)$'
+        plt.plot(x, y, '-', color='r', label=label, linewidth=4)
 
-    data = np.random.normal(mean, std, 10000)
-    hist, edges = np.histogram(data, 100, density=True)
-    plt.plot(edges[:-1], hist, 'o', label="1D Gaussian samples")
+        plt.legend(loc='upper left')
+        plt.ylabel('y = Probability or Frequency')
+        plt.savefig("gaussian_model.png")
 
-    plt.savefig("gaussian_1d.png")
     plt.show()
     plt.close('all')
 
