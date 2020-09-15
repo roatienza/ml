@@ -9,6 +9,8 @@ With some modifications, the theory part is based on Mathematics for Machine Lea
 As much as possible, code examples are written to better understand key concepts. The code examples in this course are in [Jupyter Notebook](https://jupyter.org/). I tried using [Google Colab](https://colab.research.google.com/) but encountered errors in saving my notebooks. So, I switched to Jupyter Notebook. In theory, you can upload the notebooks here to Google Colab. 
 
 ## Roadmap
+0. **Why Machine Learning** - Importance of understanding Foundations Machine Learning, Course Outline
+   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/intro_to_ml/Intro_to_ML.pdf)
 1. **Linear Algebra** - Tensors, Operations, Basis, Rank, Spaces/Subspaces, Groups, Linear Mappings
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_algebra/Linear_Algebra.pdf)
    - Notebook (Code Examples):
@@ -28,6 +30,12 @@ As much as possible, code examples are written to better understand key concepts
 8. **Regression**
 9. **Gaussian Mixture Models**
 10. **Support Vector Machines**
+
+## Cheat Sheets
+0. [Numpy](https://github.com/roatienza/ml/blob/master/intro_to_ml/image/numpy_cheatsheet.jpeg)
+1. [Scikit-Learn](https://github.com/roatienza/ml/blob/master/intro_to_ml/image/sckit-learn_cheatsheet.jpeg)
+2. [dplyr and tidyr](https://github.com/roatienza/ml/blob/master/intro_to_ml/image/dplyr_cheatsheet.jpeg)
+3. [Neural Networks](https://github.com/roatienza/ml/blob/master/intro_to_ml/image/neural_networks_cheatsheet.jpeg)
    
 ## Appreciation
 If you find the materials in this repo useful, please give it a star or fork it. 
