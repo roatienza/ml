@@ -9,7 +9,7 @@ With some modifications, the theory part is based on Mathematics for Machine Lea
 As much as possible, code examples are written to better understand key concepts. The code examples in this course are in [Jupyter Notebook](https://jupyter.org/). I tried using [Google Colab](https://colab.research.google.com/) but encountered errors in saving my notebooks. So, I switched to Jupyter Notebook. In theory, you can upload the notebooks here to Google Colab. 
 
 ## Roadmap
-0. **Why Machine Learning** - Importance of understanding Foundations of Machine Learning, Course Outline
+0. **Why Machine Learning** - Importance of Foundations of Machine Learning, Course Outline
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/intro_to_ml/Intro_to_ML.pdf)
 1. **Linear Algebra** - Tensors, Operations, Basis, Rank, Spaces/Subspaces, Groups, Linear Mappings
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_algebra/Linear_Algebra.pdf)
