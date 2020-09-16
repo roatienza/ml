@@ -23,7 +23,8 @@ As much as possible, code examples are written to better understand key concepts
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/matrix_decompositions/Matrix_Decompositions.pdf)
    - Notebook (Code Examples):
       - [Matrix Approximation](https://github.com/roatienza/ml/blob/master/matrix_decompositions/notebook/matrix_approximation.ipynb)
-4. **Vector Calculus**
+4. **Vector Calculus** - Learning, Taylor Series, Gradients, Jacobian, Backpropagation, Hessian
+   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/vector_calculus/Vector_Calculus.pdf)
 5. **Probability Distributions**
 6. **Expectation Maximization (EM) and Maximum A Posteriori (MAP)**
 7. **Optimization**
