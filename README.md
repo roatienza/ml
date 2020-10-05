@@ -27,8 +27,9 @@ As much as possible, code examples are written to better understand key concepts
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/vector_calculus/Vector_Calculus.pdf)
 5. **Probability Distributions** - Distributions, Gaussian, Bayes, Sufficient Statistics, Exponential Family, Conjugacy, Transformation 
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/probability/Probability.pdf)
-6. **Expectation Maximization (EM) and Maximum A Posteriori (MAP)**
-7. **Optimization**
+6. **Optimization** - Gradient Descent, Stochastic Gradient Descent, Convex Optimization, Linear & Quadratic Programming, Convex Conjugate
+   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/optimization/Optimization.pdf)
+7. **Expectation Maximization (EM) and Maximum A Posteriori (MAP)**
 8. **Regression**
 9. **Gaussian Mixture Models**
 10. **Support Vector Machines**
