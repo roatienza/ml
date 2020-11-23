@@ -29,10 +29,13 @@ As much as possible, code examples are written to better understand key concepts
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/probability/Probability.pdf)
 6. **Optimization** - Gradient Descent, Stochastic Gradient Descent, Convex Optimization, Linear & Quadratic Programming, Convex Conjugate
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/optimization/Optimization.pdf)
-7. **Expectation Maximization (EM) and Maximum A Posteriori (MAP)**
-8. **Regression**
-9. **Gaussian Mixture Models**
-10. **Support Vector Machines**
+7. **Machine Learning Principles** - Empirical Risk Minimization (ERM), Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP), Intro to Information Theory, Directed Graphical Models
+   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/ml_principles/ML_Principles.pdf)
+8. **Linear Regression** - MLE, MAP
+   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_regression/Linear_Regression.pdf)
+9. **Principal Component Analysis**
+10. **Gaussian Mixture Models**
+11. **Support Vector Machines**
 
 ## Cheat Sheets
 0. [Numpy](https://github.com/roatienza/ml/blob/master/intro_to_ml/image/numpy_cheatsheet.jpeg)
