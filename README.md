@@ -21,7 +21,7 @@ As much as possible, code examples are written to better understand key concepts
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/analytic_geometry/Analytic_Geometry.pdf)
 3. **Matrix Decomposition** - Eigenvalues, Eigenvector, Eigendecomposition, Spectral Theorem, Singular-Value Decomposition, Matrix Approximation
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/matrix_decompositions/Matrix_Decompositions.pdf)
-   - Notebook (Code Examples):
+   - Notebook (Code Example):
       - [Matrix Approximation](https://github.com/roatienza/ml/blob/master/matrix_decompositions/notebook/matrix_approximation.ipynb)
 4. **Vector Calculus** - Learning, Taylor Series, Gradients, Jacobian, Backpropagation, Hessian
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/vector_calculus/Vector_Calculus.pdf)
@@ -33,6 +33,8 @@ As much as possible, code examples are written to better understand key concepts
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/ml_principles/ML_Principles.pdf)
 8. **Linear Regression** - MLE, MAP
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_regression/Linear_Regression.pdf)
+   - Notebook (Code Example):
+      - [MLE and MAP](https://github.com/roatienza/ml/blob/master/linear_regression/notebook/mle_and_map_poly.ipynb)   
 9. **Principal Component Analysis**
 10. **Gaussian Mixture Models**
 11. **Support Vector Machines**
