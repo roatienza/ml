@@ -35,7 +35,10 @@ As much as possible, code examples are written to better understand key concepts
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_regression/Linear_Regression.pdf)
    - Notebook (Code Example):
       - [MLE and MAP](https://github.com/roatienza/ml/blob/master/linear_regression/notebook/mle_and_map_poly.ipynb)   
-9. **Principal Component Analysis**
+9. **Principal Component Analysis** - Low-dimensional Representation, Latent Variable Model
+   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/pca/PCA.pdf)
+   - Notebook (Code Example):
+      - [MNIST PCA](https://github.com/roatienza/ml/blob/master/pca/notebook/pca.ipynb)
 10. **Gaussian Mixture Models**
 11. **Support Vector Machines**
 
