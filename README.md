@@ -39,7 +39,11 @@ As much as possible, code examples are written to better understand key concepts
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/pca/PCA.pdf)
    - Notebook (Code Example):
       - [MNIST PCA](https://github.com/roatienza/ml/blob/master/pca/notebook/pca.ipynb)
-10. **Gaussian Mixture Models**
+10. **Gaussian Mixture Models** Responsibilities, Parameter Updates, Expectation Maximization
+   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/gmm/GMM.pdf)
+   - Notebook (Code Example):
+      - [GMM 2-component 2D](https://github.com/roatienza/ml/blob/master/gmm/notebook/gmm.ipynb)
+
 11. **Support Vector Machines**
 
 ## Cheat Sheets
