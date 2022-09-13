@@ -10,41 +10,43 @@ As much as possible, code examples are written to better understand key concepts
 
 ## Roadmap
 0. **Why Machine Learning** - Importance of Foundations of Machine Learning, Course Outline
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/intro_to_ml/Intro_to_ML.pdf)
-1. **Linear Algebra** - Tensors, Operations, Basis, Rank, Spaces/Subspaces, Groups, Linear Mappings
+   - [Slides](https://github.com/roatienza/ml/blob/master/intro_to_ml/Intro_to_ML.pdf)
+1. **ML Toolkit** - Environment, Code Editor, Python, Numpy, Matplotlib, etc
+   - [Slides](https://github.com/roatienza/ml/blob/master/toolkit/Env_Editor_Python_Numpy.pdf)
+2. **Linear Algebra** - Tensors, Operations, Basis, Rank, Spaces/Subspaces, Groups, Linear Mappings
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_algebra/Linear_Algebra.pdf)
    - Notebook (Code Examples):
       - [Introduction to Numpy](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/numpy_intro.ipynb)
       - [Linear Regression](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/linear_regression.ipynb)
       - [Basis Vectors Transformation](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/transform.ipynb)
-2. **Analytic Geometry** - Distance, Metric, Norm, Inner Product, Basis, Projection, Gram-Schmidt, Rotation
+3. **Analytic Geometry** - Distance, Metric, Norm, Inner Product, Basis, Projection, Gram-Schmidt, Rotation
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/analytic_geometry/Analytic_Geometry.pdf)
-3. **Matrix Decomposition** - Eigenvalues, Eigenvector, Eigendecomposition, Spectral Theorem, Singular-Value Decomposition, Matrix Approximation
+4. **Matrix Decomposition** - Eigenvalues, Eigenvector, Eigendecomposition, Spectral Theorem, Singular-Value Decomposition, Matrix Approximation
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/matrix_decompositions/Matrix_Decompositions.pdf)
    - Notebook (Code Example):
       - [Matrix Approximation](https://github.com/roatienza/ml/blob/master/matrix_decompositions/notebook/matrix_approximation.ipynb)
-4. **Vector Calculus** - Learning, Taylor Series, Gradients, Jacobian, Backpropagation, Hessian
+5. **Vector Calculus** - Learning, Taylor Series, Gradients, Jacobian, Backpropagation, Hessian
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/vector_calculus/Vector_Calculus.pdf)
-5. **Probability Distributions** - Distributions, Gaussian, Bayes, Sufficient Statistics, Exponential Family, Conjugacy, Transformation 
+6. **Probability Distributions** - Distributions, Gaussian, Bayes, Sufficient Statistics, Exponential Family, Conjugacy, Transformation 
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/probability/Probability.pdf)
-6. **Optimization** - Gradient Descent, Stochastic Gradient Descent, Convex Optimization, Linear & Quadratic Programming, Convex Conjugate
+7. **Optimization** - Gradient Descent, Stochastic Gradient Descent, Convex Optimization, Linear & Quadratic Programming, Convex Conjugate
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/optimization/Optimization.pdf)
-7. **Machine Learning Principles** - Empirical Risk Minimization (ERM), Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP), Intro to Information Theory, Directed Graphical Models
+8. **Machine Learning Principles** - Empirical Risk Minimization (ERM), Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP), Intro to Information Theory, Directed Graphical Models
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/ml_principles/ML_Principles.pdf)
-8. **Linear Regression** - MLE, MAP
+9. **Linear Regression** - MLE, MAP
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_regression/Linear_Regression.pdf)
    - Notebook (Code Example):
       - [MLE and MAP](https://github.com/roatienza/ml/blob/master/linear_regression/notebook/mle_and_map_poly.ipynb)   
-9. **Principal Component Analysis** - Low-dimensional Representation, Latent Variable Model
+10. **Principal Component Analysis** - Low-dimensional Representation, Latent Variable Model
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/pca/PCA.pdf)
    - Notebook (Code Example):
       - [MNIST PCA](https://github.com/roatienza/ml/blob/master/pca/notebook/pca.ipynb)
-10. **Gaussian Mixture Models** Responsibilities, Parameter Updates, Expectation Maximization
+11. **Gaussian Mixture Models** Responsibilities, Parameter Updates, Expectation Maximization
    - [Lecture Notes](https://github.com/roatienza/ml/blob/master/gmm/GMM.pdf)
    - Notebook (Code Example):
       - [GMM 2-component 2D](https://github.com/roatienza/ml/blob/master/gmm/notebook/gmm.ipynb)
 
-11. **Support Vector Machines**
+12. **Support Vector Machines**
 
 ## Cheat Sheets
 0. [Numpy](https://github.com/roatienza/ml/blob/master/intro_to_ml/image/numpy_cheatsheet.jpeg)
