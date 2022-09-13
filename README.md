@@ -14,35 +14,35 @@ As much as possible, code examples are written to better understand key concepts
 1. **ML Toolkit** - Environment, Code Editor, Python, Numpy, Matplotlib, etc
    - [Slides](https://github.com/roatienza/ml/blob/master/toolkit/Env_Editor_Python_Numpy.pdf)
 2. **Linear Algebra** - Tensors, Operations, Basis, Rank, Spaces/Subspaces, Groups, Linear Mappings
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_algebra/Linear_Algebra.pdf)
+   - [Slides](https://github.com/roatienza/ml/blob/master/linear_algebra/Linear_Algebra.pdf)
    - Notebook (Code Examples):
       - [Introduction to Numpy](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/numpy_intro.ipynb)
-      - [Linear Regression](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/linear_regression.ipynb)
+      - [Linear Regression](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/scikit-learn-linear-regression.ipynb)
       - [Basis Vectors Transformation](https://github.com/roatienza/ml/blob/master/linear_algebra/notebook/transform.ipynb)
 3. **Analytic Geometry** - Distance, Metric, Norm, Inner Product, Basis, Projection, Gram-Schmidt, Rotation
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/analytic_geometry/Analytic_Geometry.pdf)
+   - [Slides](https://github.com/roatienza/ml/blob/master/analytic_geometry/Analytic_Geometry.pdf)
 4. **Matrix Decomposition** - Eigenvalues, Eigenvector, Eigendecomposition, Spectral Theorem, Singular-Value Decomposition, Matrix Approximation
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/matrix_decompositions/Matrix_Decompositions.pdf)
+   - [Slides](https://github.com/roatienza/ml/blob/master/matrix_decompositions/Matrix_Decompositions.pdf)
    - Notebook (Code Example):
       - [Matrix Approximation](https://github.com/roatienza/ml/blob/master/matrix_decompositions/notebook/matrix_approximation.ipynb)
 5. **Vector Calculus** - Learning, Taylor Series, Gradients, Jacobian, Backpropagation, Hessian
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/vector_calculus/Vector_Calculus.pdf)
+   - [Slides](https://github.com/roatienza/ml/blob/master/vector_calculus/Vector_Calculus.pdf)
 6. **Probability Distributions** - Distributions, Gaussian, Bayes, Sufficient Statistics, Exponential Family, Conjugacy, Transformation 
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/probability/Probability.pdf)
+   - [Slides](https://github.com/roatienza/ml/blob/master/probability/Probability.pdf)
 7. **Optimization** - Gradient Descent, Stochastic Gradient Descent, Convex Optimization, Linear & Quadratic Programming, Convex Conjugate
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/optimization/Optimization.pdf)
+   - [Slides](https://github.com/roatienza/ml/blob/master/optimization/Optimization.pdf)
 8. **Machine Learning Principles** - Empirical Risk Minimization (ERM), Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP), Intro to Information Theory, Directed Graphical Models
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/ml_principles/ML_Principles.pdf)
+   - [Slides](https://github.com/roatienza/ml/blob/master/ml_principles/ML_Principles.pdf)
 9. **Linear Regression** - MLE, MAP
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/linear_regression/Linear_Regression.pdf)
+   - [Slides](https://github.com/roatienza/ml/blob/master/linear_regression/Linear_Regression.pdf)
    - Notebook (Code Example):
       - [MLE and MAP](https://github.com/roatienza/ml/blob/master/linear_regression/notebook/mle_and_map_poly.ipynb)   
 10. **Principal Component Analysis** - Low-dimensional Representation, Latent Variable Model
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/pca/PCA.pdf)
+   - [Slides](https://github.com/roatienza/ml/blob/master/pca/PCA.pdf)
    - Notebook (Code Example):
       - [MNIST PCA](https://github.com/roatienza/ml/blob/master/pca/notebook/pca.ipynb)
 11. **Gaussian Mixture Models** Responsibilities, Parameter Updates, Expectation Maximization
-   - [Lecture Notes](https://github.com/roatienza/ml/blob/master/gmm/GMM.pdf)
+   - [Slides](https://github.com/roatienza/ml/blob/master/gmm/GMM.pdf)
    - Notebook (Code Example):
       - [GMM 2-component 2D](https://github.com/roatienza/ml/blob/master/gmm/notebook/gmm.ipynb)
 
